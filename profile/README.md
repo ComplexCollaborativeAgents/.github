@@ -1,4 +1,7 @@
-## Hi there 👋
+Intelligent agents that are
+
+- Complex: human-like intelligent behavior results from an interplay of various types of inference and reasoning; such as perceptual & sensory inference, task planning, preference calucaltion, goal reasoning, analogical reasoning etc. We study agent architectures that integrate these inference methods in a single, cohesive, system.  
+- Collaborative: 
 
 <!--
 
