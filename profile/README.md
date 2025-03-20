@@ -3,6 +3,8 @@ Intelligent agents that are:
 - **Collaborative**: agents that can partner with humans need computational models of human decision making, problem solving, and learning. These models should be 'usable' by agents' decision making processes. We study how human models from psychology, cognitive science, behavior economics and other social sciences can brought into intelligent agent systems.
 
 Agents here have been graciously funded by the US Government through DARPA, AFOSR, ARPA-E and other agencies.  
+Read a detalied [research statement](https://www.shiwali.me/assets/pdf/ResearchStatement.pdf) for the vision behind CoCoA. 
+
 
 <!--
 
